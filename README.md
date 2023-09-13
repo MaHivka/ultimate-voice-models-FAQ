@@ -7,6 +7,7 @@
 
 **Не бойтесь экспериментировать! Данные ИИ вашему ПК вреда не принесут!** (возможно)
 
+# [Wiki](https://github.com/MaHivka/ultimate-voice-models-FAQ/wiki) (Более свежая информация и удобное оформление)
 
 ## Навигация
 >1. [RVC](#rvc-retrieval-based-voice-conversion)
