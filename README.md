@@ -100,3 +100,9 @@ UVR - это ИИ для разделения вокала и инструмен
 
 ⠀
 ## Voice-changer [(от w-okada)](https://github.com/w-okada/voice-changer "Репозиторий проекта")
+
+
+## Contributors
+<a href="https://github.com/MaHivka/ultimate-voice-models-FAQ/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MaHivka/ultimate-voice-models-FAQ">
+</a>
